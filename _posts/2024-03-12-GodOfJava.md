@@ -6,9 +6,10 @@
 
 <p align = "center">
 <img src="https://github.com/JINKWINE/STUDY/assets/133944163/2dadc700-489b-43e6-abc0-36e87a9c81da"  width="150" height="150"/>
+그림 1
 </p>
 
-그림 1
+
 
 웹 페이지는 그러한 프로그램들을 웹에서 구현해 놓고 사용자가 요청(입력값)을 하면 미리 설정된 프로그램에 의해 요청 받은 데이터를 화면에 출력해주는 것이다.
 
