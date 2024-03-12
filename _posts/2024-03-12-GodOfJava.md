@@ -4,7 +4,7 @@
 
 프로그래밍이란 어떤 입력을 했을 때 그 입력 값이 미리 설정 된 `"프로그램"`에 의해 정해진 값이 출력되는 것을 말한다. 학교 다닐 때 배웠던 함수(函數)와 같다. 그림 1과 같이 특정 식`(a + b)`이 있는 상자(函)에 입력 값(3과 9)를 집어 넣으면 그 함수(프로그램)에 의해 값(9)을 출력한다.
 
-<method="https://github.com/JINKWINE/STUDY/assets/133944163/2dadc700-489b-43e6-abc0-36e87a9c81da  width="200" height="400"/>
+<img src="https://github.com/JINKWINE/STUDY/assets/133944163/2dadc700-489b-43e6-abc0-36e87a9c81da  width="200" height="400"/>
 
 그림 1
 
