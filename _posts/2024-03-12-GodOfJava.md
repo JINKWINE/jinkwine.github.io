@@ -25,7 +25,7 @@ public int addNumbers(int a, int b) {
 - 매개 변수 또는 parameter는 말 그대로 변하는 어떤 것이다. 위 코드에서는 정수 a와 b를 말하며 파라미터는 없어도 되며 몇 개가 있더라도 상관 없다.
 - 자바의 메소드에는 `리턴 타입`이라는 것이 있어서 결과 값의 형태를 미리 결정하는 역할을 한다. `int`라는 것은 정수만을 출력하는 `기본 자료형` 중 하나이다.
 
-![Untitled](%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%B5%E1%86%AB%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%2019f6c18e92ee4f889f85b187666bfab9/Untitled%201.png)
+![codeBlock](_image/codeBlockNames.png)
 
 ### 클래스
 
