@@ -4,7 +4,7 @@
 
 프로그래밍이란 어떤 입력을 했을 때 그 입력 값이 미리 설정 된 `"프로그램"`에 의해 정해진 값이 출력되는 것을 말한다. 학교 다닐 때 배웠던 함수(函數)와 같다. 그림 1과 같이 특정 식`(a + b)`이 있는 상자(函)에 입력 값(3과 9)를 집어 넣으면 그 함수(프로그램)에 의해 값(9)을 출력한다.
 
-![그림 1](%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%B5%E1%86%AB%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5%2019f6c18e92ee4f889f85b187666bfab9/Untitled.png)
+![method](https://github.com/JINKWINE/STUDY/assets/133944163/2dadc700-489b-43e6-abc0-36e87a9c81da)
 
 그림 1
 
@@ -25,7 +25,7 @@ public int addNumbers(int a, int b) {
 - 매개 변수 또는 parameter는 말 그대로 변하는 어떤 것이다. 위 코드에서는 정수 a와 b를 말하며 파라미터는 없어도 되며 몇 개가 있더라도 상관 없다.
 - 자바의 메소드에는 `리턴 타입`이라는 것이 있어서 결과 값의 형태를 미리 결정하는 역할을 한다. `int`라는 것은 정수만을 출력하는 `기본 자료형` 중 하나이다.
 
-![codeBlock](_image/codeBlockNames.png)
+![codeBlockNames](https://github.com/JINKWINE/STUDY/assets/133944163/b85bf13e-cb90-4790-b2c1-305c6cc6ee84)
 
 ### 클래스
 
