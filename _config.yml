@@ -20,7 +20,7 @@ title                    : "JINKWINE's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JINKWINE"
-description              : "An amazing website."
+description              : "Do everything even if you don't know anything"
 url                      : "https://jinkwine.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
