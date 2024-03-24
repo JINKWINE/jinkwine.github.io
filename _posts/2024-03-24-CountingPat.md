@@ -5,7 +5,7 @@
 ---
 
 <p align = "center">
-<img src="https://github.com/JINKWINE/STUDY/assets/133944163/e7fa89af-6b69-4c10-9e72-3086ef651ff0"  width="1100" height="500"/>
+<img src="https://github.com/JINKWINE/STUDY/assets/133944163/b2d0f4dc-10c8-4e23-8868-e75c216dbb0e"  width="1100" height="500"/>
 </p>
 
 ### 풀이
